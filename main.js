@@ -60,7 +60,7 @@ function gotPoses(results)
 function startGame()
 {
    game_status="start";
-   document.getElementById("statu").innerHTML="game is loading";
+   document.getElementById("status").innerHTML="game is loading";
 }
 
 function draw(){
